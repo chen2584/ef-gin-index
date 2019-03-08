@@ -1,0 +1,11 @@
+/Users/chen/MyWork/Dotnet/TestGinIndex/bin/Debug/netcoreapp2.2/TestGinIndex.deps.json
+/Users/chen/MyWork/Dotnet/TestGinIndex/bin/Debug/netcoreapp2.2/TestGinIndex.runtimeconfig.json
+/Users/chen/MyWork/Dotnet/TestGinIndex/bin/Debug/netcoreapp2.2/TestGinIndex.runtimeconfig.dev.json
+/Users/chen/MyWork/Dotnet/TestGinIndex/bin/Debug/netcoreapp2.2/TestGinIndex.dll
+/Users/chen/MyWork/Dotnet/TestGinIndex/bin/Debug/netcoreapp2.2/TestGinIndex.pdb
+/Users/chen/MyWork/Dotnet/TestGinIndex/obj/Debug/netcoreapp2.2/TestGinIndex.csprojAssemblyReference.cache
+/Users/chen/MyWork/Dotnet/TestGinIndex/obj/Debug/netcoreapp2.2/TestGinIndex.csproj.CoreCompileInputs.cache
+/Users/chen/MyWork/Dotnet/TestGinIndex/obj/Debug/netcoreapp2.2/TestGinIndex.AssemblyInfoInputs.cache
+/Users/chen/MyWork/Dotnet/TestGinIndex/obj/Debug/netcoreapp2.2/TestGinIndex.AssemblyInfo.cs
+/Users/chen/MyWork/Dotnet/TestGinIndex/obj/Debug/netcoreapp2.2/TestGinIndex.dll
+/Users/chen/MyWork/Dotnet/TestGinIndex/obj/Debug/netcoreapp2.2/TestGinIndex.pdb
